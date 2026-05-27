@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bondhu Go
+
+This log tracks the cryptographic history and versioning for the song **Bondhu Go** (bondhu-go).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T23:53:15.637882 | `v1` | `c80ab4c9414a58d8c919e037529ea54e267f5efe4c796f6753cde11abf471fc9` | `db126aee092e73c4b41d1abb8ca9f1ae689d72deaaeb9435890223809e00ffbb` | `2026-05-27_bondhu-go-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
