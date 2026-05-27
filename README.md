@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bondhu-go/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Bondhu Go](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bondhu-go/) |
+| **Get License** | [Official Music Licensing for Bondhu Go](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bondhu-go/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাতের ওই নিস্তব্ধতায় খুঁজি তোমার অচিন ঠিকানা
+> মেঘের ডানায় উড়ে যায় আমার অবুঝ মনের ডানা
+> ভালোবাসার স্নিগ্ধ আলোয় রাঙিয়ে দাও আমার বেলা
+> বন্ধু গো তুমি ছাড়া আমার হৃদয় যে বড় একলা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
